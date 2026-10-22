@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=180&section=header&text=Hi%20👋%20I'm%20Vidhi&fontSize=45&fontColor=ffffff"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:19152E,50:514578,100:B8A4E8&height=200&section=header&text=Vidhi%20Meshram&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=Building%20ideas%20into%20software%20%E2%9C%A8&descSize=16&descAlignY=65&animation=fadeIn" width="100%"/>
 <h3>
 MCA Student | Full Stack Developer | Open Source Contributor
 </h3>
